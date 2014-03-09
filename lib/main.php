@@ -10,9 +10,7 @@ if ( $_POST ) {
 		update_option( 'wp_donate_marchand', $_POST['marchand'] );
 	}
 	
-	if ( isset($_POST['password']) ) {
-		update_option( 'wp_donate_password', $_POST['password'] );
-	}
+
 	
 	echo '
 	<div class="WPAlertBar">
