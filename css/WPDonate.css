@@ -1,0 +1,9 @@
+.wpdonate {
+	display: block;
+}
+.wpdonate input {
+	font: 13px Tahoma;
+	display: block;
+	margin: 5px auto;
+	width: 150px;
+}

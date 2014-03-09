@@ -1,0 +1,42 @@
+.WPAlertBar {
+	background: url(../img/tick.png) 170px center no-repeat #FFC;
+	font: 12px Tahoma;
+	padding: 5px 0;
+	color: #333;
+	border: #FC0 solid 1px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	width: 200px;
+	margin: 10px;
+	text-align: center;
+}
+.WPDonateMain h2 {
+	font-weight: 100;
+	margin: 20px;
+}
+.WPDonateMain span {
+	display: block;
+	margin: 5px 0;
+}
+.WPDonateMain input {
+	display: block;
+	margin: 15px 0;
+}
+.WPDonateMain textarea {
+	width: 400px;
+	background-color: #DDD;
+	text-align: left;
+	direction: ltr;
+	color: #333;
+	font: 12px "Courier New", Courier, monospace;
+	padding: 5px 10px;
+	display: block;
+	margin: 10px;
+	border: 1px solid #AAA;
+	height: 30px;
+}
+.copy {
+	position: absolute;
+	left: 50px;
+}
